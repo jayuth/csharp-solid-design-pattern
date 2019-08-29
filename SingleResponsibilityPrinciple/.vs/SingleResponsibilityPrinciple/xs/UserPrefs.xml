@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EAAF36A0-04C5-49D8-A527-2FEBBAFB869F}|Default">
+  <MonoDevelop.Ide.ItemProperties.SingleResponsibilityPrinciple FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingleResponsibilityPrinciple/AccountGenerator.cs">
+    <Files>
+      <File FileName="SingleResponsibilityPrinciple/Program.cs" Line="17" Column="27" />
+      <File FileName="SingleResponsibilityPrinciple/PersonValidator.cs" Line="14" Column="51" />
+      <File FileName="SingleResponsibilityPrinciple/StandardMessages.cs" Line="18" Column="73" />
+      <File FileName="SingleResponsibilityPrinciple/PersonDataCapture.cs" Line="18" Column="6" />
+      <File FileName="SingleResponsibilityPrinciple/Person.cs" Line="7" Column="1" />
+      <File FileName="SingleResponsibilityPrinciple/AccountGenerator.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SingleResponsibilityPrinciple" expanded="True">
+            <Node name="SingleResponsibilityPrinciple" expanded="True">
+              <Node name="AccountGenerator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
